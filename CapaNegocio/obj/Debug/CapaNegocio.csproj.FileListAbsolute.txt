@@ -1,0 +1,11 @@
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\CapaNegocio\obj\Debug\CapaNegocio.pdb

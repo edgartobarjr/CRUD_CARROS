@@ -1,0 +1,17 @@
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\ProgramaCarros.exe.config
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\ProgramaCarros.exe
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\ProgramaCarros.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.csprojAssemblyReference.cache
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.Form1.resources
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.Properties.Resources.resources
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.csproj.GenerateResource.cache
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.exe
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\CapaEntidad.dll
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\CapaNegocio.dll
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\CapaDatos.dll
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\CapaEntidad.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\CapaNegocio.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\bin\Debug\CapaDatos.pdb
+C:\Users\Dell Inspirion 5558\source\repos\ProgramaCarros\ProgramaCarros\obj\Debug\ProgramaCarros.csproj.CopyComplete
